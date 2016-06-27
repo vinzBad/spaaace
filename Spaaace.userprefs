@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Spaaace/Spaaace.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Spaaace/World.cs">
+    <Files>
+      <File FileName="Spaaace/Game1.cs" Line="85" Column="25" />
+      <File FileName="Spaaace/World.cs" Line="163" Column="24" />
+      <File FileName="Spaaace/Entity.cs" Line="1" Column="1" />
+      <File FileName="Spaaace/Planet.cs" Line="1" Column="1" />
+      <File FileName="Spaaace/Player.cs" Line="1" Column="1" />
+      <File FileName="Spaaace/Content/inconsolata16.spritefont" Line="1" Column="1" />
+      <File FileName="Spaaace/Ship.cs" Line="5" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
